@@ -1,1 +1,4 @@
-# Trabalho1
+# Trabalho 1 - Calculadora Assembly
+
+Authors:
+      Anderson and Lucas.
